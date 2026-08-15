@@ -2,3 +2,4 @@ Patient Report
 -----------------
 Total Patients : 250
 Active Patients : 180
+Inactive Patients : 70
